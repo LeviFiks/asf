@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="32"
+   height="32"
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="fikusa.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#111111"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="15.782793"
+     inkscape:cx="18.02596"
+     inkscape:cy="16.473637"
+     inkscape:window-width="1920"
+     inkscape:window-height="1021"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#241f1c"
+       id="rect9326"
+       width="31.821783"
+       height="31.92272"
+       x="0.1347481"
+       y="0.054674149" />
+    <text
+       xml:space="preserve"
+       style="font-size:31.0883px;line-height:1.25;font-family:'whatever it takes';-inkscape-font-specification:'whatever it takes';fill:#ff00c1;fill-opacity:1;stroke-width:0.777205"
+       x="9.4366369"
+       y="25.959711"
+       id="text11184"
+       transform="scale(1.0241782,0.97639259)"><tspan
+         sodipodi:role="line"
+         id="tspan11182"
+         x="9.4366369"
+         y="25.959711"
+         style="fill:#ff00c1;fill-opacity:1;stroke-width:0.777205">F</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:21.6143px;line-height:1.25;font-family:'whatever it takes';-inkscape-font-specification:'whatever it takes';stroke-width:0.540358"
+       x="9.3865719"
+       y="30.75868"
+       id="text18116"
+       transform="scale(1.2471306,0.80184064)"><tspan
+         sodipodi:role="line"
+         id="tspan18114"
+         x="9.3865719"
+         y="30.75868"
+         style="fill:#ff00c1;fill-opacity:1;stroke-width:0.540358">i</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:15.629px;line-height:1.25;font-family:'whatever it takes';-inkscape-font-specification:'whatever it takes';stroke-width:0.390725"
+       x="12.977379"
+       y="27.557177"
+       id="text31104"
+       transform="scale(1.0889087,0.91835063)"><tspan
+         sodipodi:role="line"
+         id="tspan31102"
+         x="12.977379"
+         y="27.557177"
+         style="fill:#ff00c1;fill-opacity:1;stroke-width:0.390725">k</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:15.3794px;line-height:1.25;font-family:'whatever it takes';-inkscape-font-specification:'whatever it takes';stroke-width:0.384484"
+       x="13.074564"
+       y="29.688665"
+       id="text35584"
+       transform="scale(1.1836973,0.84481058)"><tspan
+         sodipodi:role="line"
+         id="tspan35582"
+         x="13.074564"
+         y="29.688665"
+         style="fill:#ff00c1;fill-opacity:1;stroke-width:0.384484">s</tspan></text>
+  </g>
+</svg>
